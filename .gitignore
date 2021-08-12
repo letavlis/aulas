@@ -5,3 +5,4 @@ Logistica
 *.iml
 *.xml
 bin
+.vscode
