@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class VerificaVetor {
   public static void main(String[] args) {
     int[] arr;
-    arr = new int[99];
+    arr = new int[100];
 
     int maior = 0, menor = 0, media = 0, soma = 0, i = 0, n = 0, d = 0, stp = 0;
     Scanner scan = new Scanner(System.in);
